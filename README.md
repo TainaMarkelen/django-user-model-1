@@ -1,1 +1,1 @@
-# django-user-model-1
+# django-user-model-2
